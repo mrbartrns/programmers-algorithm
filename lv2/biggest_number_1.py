@@ -1,3 +1,4 @@
+# use merge sort
 def solution(numbers):
     answer = ""
     arr = merge_sort(numbers)
